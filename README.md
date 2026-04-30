@@ -1,4 +1,4 @@
-## The Agrippa Project ~ Help Resurrect Agrippa Brain! 
+## The Agrippa Project ~ Help Resurrect Agrippa's Brain! 
 ![](assets/agrippa_project.png)
 # The Agrippa Project — Community Research Wiki
 *Built with the [LLM Wiki Method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)*
