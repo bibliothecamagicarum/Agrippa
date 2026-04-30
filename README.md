@@ -24,7 +24,7 @@ Every good question sharpens the system. Every submitted paper, translation note
 
 - 🔍 **Query the wiki** — ask deep research questions, get sourced academic-level answers
 - 📦 **Download the Obsidian vault** — offline, versioned, graph-browsable, freely yours
-- 📄 **Submit a paper or source** — [Create a New Issue:Add New Source](https://github.com/bibliothecamagicarum/Agrippa/issues)academic, grad-level, and primary sources prioritized
+- 📄 **Submit a paper or source** — [Create a New Issue:Add New Source](https://github.com/bibliothecamagicarum/Agrippa/issues) academic, grad-level, and primary sources prioritized : PDFs, youtube videos, text .. 
 - 💬 **Post your best questions** [Create a New Issue:Query wiki](https://github.com/bibliothecamagicarum/Agrippa/issues) — edge cases sharpen the system most
 
 ---
