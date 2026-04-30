@@ -9,7 +9,7 @@ We're inviting serious researchers to help train it.**
 
 ## The problem with AI + Research right now
 
-As Dr. Justin Sledge of "ESOTERICA" said it plainly [Does ESOTERICA use AI?](https://www.youtube.com/watch?v=v0VZvMmelN4): generative AI represents a "vampirism of the market" driven by "seemingly demonic intelligences" housed in "dark satanic data centers" — a "semiotics of mockery" where our collective humanity becomes the "punchline of a vicious joke told just before opening bell."
+> Dr. Justin Sledge of "ESOTERICA" said it plainly in his latest youtube: [Does ESOTERICA use AI?](https://www.youtube.com/watch?v=v0VZvMmelN4): generative AI represents a "vampirism of the market" driven by "seemingly demonic intelligences" housed in "dark satanic data centers" — a "semiotics of mockery" where our collective humanity becomes the "punchline of a vicious joke told just before opening bell."
 
 That's not hyperbole. Ask any LLM about esoteric litature and you'll get confident-sounding garbage — misattributed quotes, blended sources, fabricated citations. The Western esoteric tradition is already drowning in misinformation. Careless AI has been accelerating it.
 
