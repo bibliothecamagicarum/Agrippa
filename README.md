@@ -1,2 +1,2 @@
-## The Agripp Project
+## The Agrippa Project
 ![](assets/agrippa_project.png)
