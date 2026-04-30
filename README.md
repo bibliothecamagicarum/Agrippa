@@ -5,6 +5,7 @@
 [LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f ) .
 We're inviting serious researchers to help train it.**
 ---
+**Serious research on Heinrich Cornelius Agrippa. Bannishing AI slop. Built to be grounded in Fact.**
 ## The problem with AI + Research right now
 
 As Dr. Justin Sledge of "ESOTERICA" said it plainly [Does ESOTERICA use AI?](https://www.youtube.com/watch?v=v0VZvMmelN4): generative AI represents a "vampirism of the market" driven by "seemingly demonic intelligences" housed in "dark satanic data centers" — a "semiotics of mockery" where our collective humanity becomes the "punchline of a vicious joke told just before opening bell."
