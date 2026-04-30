@@ -4,7 +4,6 @@
 **A living, self-improving knowledge base on Heinrich Cornelius Agrippa, built with the 
 [LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f ) .
 We're inviting serious researchers to help train it.**
-
 ---
 
 ## What is this?
@@ -26,7 +25,7 @@ Every good question sharpens the system. Every submitted paper, translation note
 - 🔍 **Query the wiki** — ask deep research questions, get sourced academic-level answers
 - 📦 **Download the Obsidian vault** — offline, versioned, graph-browsable, freely yours
 - 📄 **Submit a paper or source** — academic, grad-level, and primary sources prioritized
-- 💬 **Post your best questions** in this thread — edge cases sharpen the system most
+- 💬 **Post your best questions** [Create a New Issue:Query wiki](https://github.com/bibliothecamagicarum/Agrippa/issues) — edge cases sharpen the system most
 
 ---
 
