@@ -1,78 +1,73 @@
 ## The Agrippa Project ~ Help Resurrect Agrippa Brain! 
 ![](assets/agrippa_project.png)
-# The Agrippa Project — Community Research Wiki (Built with: Andrej Karpathy LLM Wiki Method) 
-**A living, self-improving knowledge base on Heinrich Cornelius Agrippa, built with the 
-[LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f ) .
-We're inviting serious researchers to help train it.**
+# The Agrippa Project — Community Research Wiki
+*Built with the [LLM Wiki Method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)*
+
+**A living, self-improving knowledge base on Heinrich Cornelius Agrippa. We're inviting serious researchers to help train it.**
+
 ---
-## *Serious Peer Reviewed Research. Banishing AI slop. Built to be grounded in Fact.*
 
-## The problem with AI + Research right now
+## Serious research. Peer-reviewed. Grounded in fact. No slop.
 
-> Dr. Justin Sledge of "ESOTERICA" said it plainly in his latest youtube: [Does ESOTERICA use AI?](https://www.youtube.com/watch?v=v0VZvMmelN4): generative AI represents a "vampirism of the market" driven by "seemingly demonic intelligences" housed in "dark satanic data centers" — a "semiotics of mockery" where our collective humanity becomes the "punchline of a vicious joke told just before opening bell."
+> Dr. Justin Sledge of [ESOTERICA](https://www.youtube.com/watch?v=v0VZvMmelN4) said it plainly: generative AI represents a "vampirism of the market" driven by "seemingly demonic intelligences" housed in "dark satanic data centers" — a "semiotics of mockery" where our collective humanity becomes the "punchline of a vicious joke told just before opening bell."
 
-That's not hyperbole. Ask any LLM about esoteric litature and you'll get confident-sounding garbage — misattributed quotes, blended sources, fabricated citations. The Western esoteric tradition is already drowning in misinformation. Careless AI has been accelerating it.
+Ask any LLM about esoteric literature and you'll get confident-sounding garbage — misattributed quotes, blended sources, fabricated citations. The Western esoteric tradition is already drowning in misinformation. Careless AI has been accelerating it.
 
-The Agrippa Project exists to take that problem Head-on.
+**The Agrippa Project exists to take that problem head-on.**
 
+---
 
 ## What The Hell is this?
 
-An AI-powered research wiki built from curated primary sources, grimoires, and academic scholarship on Agrippa's *De Occulta Philosophia*, his Neoplatonism, Hermeticism, and Renaissance magic. 
-**Built with [LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** — a technique that anchors AI responses to a curated, vetted corpus of primary sources, critical editions, and peer-reviewed scholarship. The system draws only from what has been verified and ingested. No freeform generation. No confabulation.
+An AI-powered research wiki built from curated primary sources, grimoires, and academic scholarship on Agrippa's *De Occulta Philosophia*, his Neoplatonism, Hermeticism, and Renaissance magic. The Karpathy LLM Wiki method anchors every response to a vetted corpus of critical editions and peer-reviewed scholarship. The system draws only from what has been verified and ingested. No freeform generation. No confabulation.
 
-Get graduate-level, sourced responses. Your questions and papers feed back into the system, making it smarter for everyone. Download each new Obsidian vault release and carry the full knowledge base offline.
+*The answer to AI slop isn't abandoning the tools — it's building accountability into the architecture. That's what this is.*
 
-*The answer to AI slop isn't abandoning the tech — it's building accountability into the architecture. That's what this is.*
+Query it like a researcher. Get graduate-level, sourced responses. Download the **Obsidian vault release** and carry the full knowledge graph offline — versioned, cited, yours.
 
-Query it like a researcher. Get graduate-level responses with traceable sources. Download the **Obsidian vault release** and browse the full knowledge graph offline — versioned, cited, yours.
+---
 
-## Peer review via GitHub — contributions go through a real vetting track
+## Peer review via GitHub — a real vetting track
 
-This is not a wiki where anyone can post anything. Contributor queries, submitted sources, and research notes enter a **GitHub-based peer review pipeline**:
+This is not a wiki where anyone can post anything. All contributions enter a **GitHub-based peer review pipeline**:
 
 - Submissions opened as **pull requests**, reviewed by contributors with relevant expertise
 - Merged contributions are tagged, credited, and ingested into the next vault release
 - Rejected or contested submissions remain in PR history — nothing disappears, everything is traceable
-
-Substantive queries that expose gaps in the corpus are flagged as open issues. The community works them. The wiki gets tighter.
+- Queries that expose gaps in the corpus are flagged as **open issues** — the community works them, the wiki gets tighter
 
 **Every input is accountable. That's how you earn output you can trust.**
 
 ---
 
-## The feedback loop that keeps it honest
+## The feedback loop
 
 **Vetted sources in → grounded responses out → queries expose gaps → peer-reviewed contributions fill them → next vault release is tighter.**
 
-The system self-improves — but only on verified, reviewed material.
+Every good question sharpens the system. Every submitted paper, translation note, or cross-reference makes the next release denser. The system self-improves — but only on verified, reviewed material.
 
 ---
 
-## How it works
+## How to participate
 
-**Query → Synthesized academic response → Your contributions enrich the wiki → New vault release → repeat.**
-
-Every good question sharpens the system. Every submitted paper, translation note, or cross-reference makes the next release denser. This is a research commons that improves with use.
-
----
-
-## What you can do right now
-
-- 🔍 **Query the wiki** — ask deep research questions, get sourced academic-level answers
+- 🔍 **Query the wiki** — hard questions get sourced, graduate-level answers
 - 📦 **Download the Obsidian vault** — offline, versioned, graph-browsable, freely yours
-- 📄 **Submit a paper or source** — [Create a New Issue:Add New Source](https://github.com/bibliothecamagicarum/Agrippa/issues) academic, grad-level, and primary sources prioritized : PDFs, youtube videos, text .. 
-- 💬 **Post your best questions** [Create a New Issue:Query wiki](https://github.com/bibliothecamagicarum/Agrippa/issues) — edge cases sharpen the system most.
+- 📄 **[Submit a source](https://github.com/bibliothecamagicarum/Agrippa/issues)** — PDFs, papers, translations, videos; academic and primary sources prioritized
+- 💬 **[Post a query](https://github.com/bibliothecamagicarum/Agrippa/issues)** — edge cases sharpen the system most
 
 ---
 
 ## Who this is for
 
-Occultists who read critically. Academics who want fast synthesis with citations. Obsidian users who want a serious Western esotericism knowledge graph. Anyone who has hit a hard question about Agrippa and wanted something more rigorous than a forum post.
+Occultists who read critically. Academics who want fast synthesis with citations. Obsidian users who want a serious Western esotericism knowledge graph. Anyone who agrees with Sledge that the current trajectory is a mockery of real scholarship — and wants to build something better.
 
 **You don't need a PhD. You need good questions.**
-*The Agrippa Project is community-run. Vault releases are versioned and freely distributed. **All contributors credited.***
-*PR history permanent and public.*
+
+---
+
+*Community-run. Vault releases freely distributed. All contributors credited. PR history permanent and public.*
+
+> *Omnia possibilia sunt credenti.* — H.C. Agrippa
 ---
 ### Ingested Corpus ~ Sources Updated: 4/30/2026
  **Heinrich Cornelius Agrippa: Source Bibliography and Analysis**
