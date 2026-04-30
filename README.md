@@ -7,7 +7,7 @@
 
 ---
 
-## Serious research. Peer-reviewed. Grounded in fact. No slop.
+## Peer-reviewed research. Grounded in fact. No slop.
 
 > Dr. Justin Sledge of [ESOTERICA](https://www.youtube.com/watch?v=v0VZvMmelN4) said it plainly: generative AI represents a "vampirism of the market" driven by "seemingly demonic intelligences" housed in "dark satanic data centers" — a "semiotics of mockery" where our collective humanity becomes the "punchline of a vicious joke told just before opening bell."
 
