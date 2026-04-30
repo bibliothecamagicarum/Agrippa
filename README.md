@@ -21,7 +21,8 @@ The Agrippa Project exists to take that problem Head-on.
 An AI-powered research wiki built from curated primary sources, grimoires, and academic scholarship on Agrippa's *De Occulta Philosophia*, his Neoplatonism, Hermeticism, and Renaissance magic. 
 **Built with [LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** — a technique that anchors AI responses to a curated, vetted corpus of primary sources, critical editions, and peer-reviewed scholarship. The system draws only from what has been verified and ingested. No freeform generation. No confabulation.
 
-get graduate-level, sourced responses. Your questions and papers feed back into the system, making it smarter for everyone. Download each new Obsidian vault release and carry the full knowledge base offline.
+Get graduate-level, sourced responses. Your questions and papers feed back into the system, making it smarter for everyone. Download each new Obsidian vault release and carry the full knowledge base offline.
+
 *The answer to AI slop isn't abandoning the tech — it's building accountability into the architecture. That's what this is.*
 
 Query it like a researcher. Get graduate-level responses with traceable sources. Download the **Obsidian vault release** and browse the full knowledge graph offline — versioned, cited, yours.
