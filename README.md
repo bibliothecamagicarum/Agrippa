@@ -59,7 +59,7 @@ Every good question sharpens the system. Every submitted paper, translation note
 
 ## Who this is for
 
-Occultists who read critically. Academics who want fast synthesis with citations. Obsidian users who want a serious Western esotericism knowledge graph. Anyone who agrees with Sledge that the current trajectory is a mockery of real scholarship — and wants to build something better.
+Occultists who read critically. Academics who want fast synthesis with citations. Obsidian users who want a serious Western esotericism knowledge graph. Anyone who agrees that the current research trajectory is a mockery of real scholarship — and wants to build something better.
 
 **You don't need a PhD. You need good questions.**
 
