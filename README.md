@@ -1,7 +1,9 @@
 ## The Agrippa Project
 ![](assets/agrippa_project.png)
-# The Agrippa Project — Community Research Wiki (Built with: [The Andrej Karpathy LLM Wiki Method](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f )) 
-**A living, self-improving knowledge base on Heinrich Cornelius Agrippa, built with the LLM Wiki method by Andrej Karpathy. We're inviting serious researchers to help train it.**
+# The Agrippa Project — Community Research Wiki (Built with: Andrej Karpathy LLM Wiki Method) 
+**A living, self-improving knowledge base on Heinrich Cornelius Agrippa, built with the 
+[LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f ) .
+We're inviting serious researchers to help train it.**
 
 ---
 
