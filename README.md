@@ -37,6 +37,6 @@ Occultists who read critically. Academics who want fast synthesis with citations
 
 ---
 
-*The Agrippa Project is community-run. Vault releases are versioned and freely distributed. All contributors credited.*
+*The Agrippa Project is community-run. Vault releases are versioned and freely distributed. **All contributors credited.** *
 
 > *Omnia possibilia sunt credenti.* — H.C. Agrippa
