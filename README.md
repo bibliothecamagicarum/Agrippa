@@ -1,14 +1,49 @@
-## The Agrippa Project
+## The Agrippa Project ~ Help Resurrect Agrippa Brain! 
 ![](assets/agrippa_project.png)
 # The Agrippa Project — Community Research Wiki (Built with: Andrej Karpathy LLM Wiki Method) 
 **A living, self-improving knowledge base on Heinrich Cornelius Agrippa, built with the 
 [LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f ) .
 We're inviting serious researchers to help train it.**
 ---
+## The problem with AI + Research right now
 
-## What is this?
+As Dr. Justin Sledge of "ESOTERICA" said it plainly [Does ESOTERICA use AI?](https://www.youtube.com/watch?v=v0VZvMmelN4): generative AI represents a "vampirism of the market" driven by "seemingly demonic intelligences" housed in "dark satanic data centers" — a "semiotics of mockery" where our collective humanity becomes the "punchline of a vicious joke told just before opening bell."
+
+That's not hyperbole. Ask any LLM about esoteric litature and you'll get confident-sounding garbage — misattributed quotes, blended sources, fabricated citations. The Western esoteric tradition is already drowning in misinformation. Careless AI has been accelerating it.
+
+The Agrippa Project exists to take that problem Head-on.
+
+
+## What The Hell is this?
 
 An AI-powered research wiki built from curated primary sources, grimoires, and academic scholarship on Agrippa's *De Occulta Philosophia*, his Neoplatonism, Hermeticism, and Renaissance magic. Query it like a researcher — get graduate-level, sourced responses. Your questions and papers feed back into the system, making it smarter for everyone. Download each new Obsidian vault release and carry the full knowledge base offline.
+## What we're building
+
+A rigorously grounded research wiki Built by **[LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** — a technique that anchors AI responses to a curated, vetted corpus of primary sources, critical editions, and peer-reviewed scholarship. The system draws only from what has been verified and ingested. No freeform generation. No confabulation.
+
+The answer to AI slop isn't abandoning the tech — it's building accountability into the architecture. That's what this is.
+
+Query it like a researcher. Get graduate-level responses with traceable sources. Download the **Obsidian vault release** and browse the full knowledge graph offline — versioned, cited, yours.
+
+## Peer review via GitHub — contributions go through a real vetting track
+
+This is not a wiki where anyone can post anything. Contributor queries, submitted sources, and research notes enter a **GitHub-based peer review pipeline**:
+
+- Submissions opened as **pull requests**, reviewed by contributors with relevant expertise
+- Merged contributions are tagged, credited, and ingested into the next vault release
+- Rejected or contested submissions remain in PR history — nothing disappears, everything is traceable
+
+Substantive queries that expose gaps in the corpus are flagged as open issues. The community works them. The wiki gets tighter.
+
+**Every input is accountable. That's how you earn output you can trust.**
+
+---
+
+## The feedback loop that keeps it honest
+
+**Vetted sources in → grounded responses out → queries expose gaps → peer-reviewed contributions fill them → next vault release is tighter.**
+
+The system self-improves — but only on verified, reviewed material.
 
 ---
 
@@ -35,7 +70,7 @@ Occultists who read critically. Academics who want fast synthesis with citations
 
 **You don't need a PhD. You need good questions.**
 *The Agrippa Project is community-run. Vault releases are versioned and freely distributed. **All contributors credited.***
-
+*PR history permanent and public.*
 ---
 ### Ingested Sources 4/30/2026
  **Heinrich Cornelius Agrippa: Source Bibliography and Analysis**
