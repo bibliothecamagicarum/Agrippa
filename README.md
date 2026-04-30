@@ -73,7 +73,7 @@ Occultists who read critically. Academics who want fast synthesis with citations
 *The Agrippa Project is community-run. Vault releases are versioned and freely distributed. **All contributors credited.***
 *PR history permanent and public.*
 ---
-### Ingested Sources 4/30/2026
+### Ingested Corpus ~ Sources Updated: 4/30/2026
  **Heinrich Cornelius Agrippa: Source Bibliography and Analysis**
 
 *   **Agrippa von Nettesheim, Heinrich Cornelius. *Three Books of Occult Philosophy*. Translated by Eric Purdue, Inner Traditions, 2021.**
