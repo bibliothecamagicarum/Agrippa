@@ -5,7 +5,7 @@
 [LLM Wiki method by Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f ) .
 We're inviting serious researchers to help train it.**
 ---
-## Serious Peer Reviewed Research. Banishing AI slop. Built to be grounded in Fact.**
+## *Serious Peer Reviewed Research. Banishing AI slop. Built to be grounded in Fact.*
 
 ## The problem with AI + Research right now
 
